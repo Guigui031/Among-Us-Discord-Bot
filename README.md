@@ -4,10 +4,15 @@ Date : 27-01-2023
 
 
 Code de mute ou pas provient de https://stackoverflow.com/questions/62887805/muting-an-entire-discord-voice-channel-js
+
 Reste du code provient de https://www.youtube.com/watch?v=nTGtiCC3iQM
+
 Le guide de discordjs pour les bot https://discordjs.guide/
+
 Le github où j'ai pris le truc pour le transfert d'audio https://github.com/BinkanSalaryman/Discord-Audio-Stream-Bot
+
 Le virtual cable qui agit comme un fil entre les deux salons https://vb-audio.com/Cable/index.htm
+
 Le lien pour les développeurs de bot Discord https://discord.com/developers/applications/
 
 
