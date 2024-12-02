@@ -27,8 +27,11 @@ Comment initialiser:
 
 
 Commandes:
+
 /reset  -- assigne chaque membre comme étant vivant (tout le monde est déplacé au salon VIVANTS)
+
 /dead @user  -- assigne le user comme étant mort (le déplace au salon MORTS)
+
 /mute  -- tous les joueurs vivants ne peuvent plus parler (dans le salon VIVANTS)
 
 
